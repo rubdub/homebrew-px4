@@ -1,6 +1,6 @@
 require "formula"
 
-class GccArmNoneEabi54 < Formula
+class GccArmNoneEabi < Formula
   desc "GNU Embedded Toolchain for ARM"
   homepage "https://developer.arm.com/open-source/gnu-toolchain/gnu-rm/downloads"
   url "http://px4-travis.s3.amazonaws.com/toolchain/gcc-arm-none-eabi-5_4-2016q3-20160926-mac-d.tar.bz2"
